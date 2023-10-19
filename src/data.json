@@ -1,0 +1,292 @@
+[
+    {
+        "title": "Lingi-Lingi-Lingidi",
+        "album": "Kotabommali-P.S.-2023",
+        "url": "src/songs/telugu/[iSongs.info] 01 - Lingi Lingi Lingidi.mp3",
+        "poster": "src/songs/telugu/images/Kotabommali-P.S.-2023-Lingi-Lingi-Lingidi-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Preminche Premava",
+        "album": "Nuvvu-Nenu-Prema",
+        "url": "src/songs/telugu/[iSongs.info] 13 - Preminche Premava.mp3",
+        "poster": "src/songs/telugu/images/Nuvvu-Nenu-Prema-2006-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Amar Theme (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 01 - Amar Theme (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Sandhanam Theme (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 02 - Sandhanam Theme (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Amar & Gayathri (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 03 - Amar & Gayathri (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Moaning Theme (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 05 - Moaning Theme (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "New York Nagarama",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 10 - New York Nagarama.mp3",
+        "poster": "src/songs/telugu/images/Nuvvu-Nenu-Prema-2006-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Pablo Sandhanam (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 08 - Pablo Sandhanam (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Ghost Unmasked (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 10 - Ghost Unmasked (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Rolex Theme (Background Score)",
+        "album": "Vikram-Hitlist",
+        "url": "src/songs/telugu/[iSongs.info] 21 - Rolex Theme (Background Score).mp3",
+        "poster": "src/songs/telugu/images/Vikram-Hitlist-Telugu-2022-OST-250x250.jpg",
+        "language": "telugu",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Tere Vaaste",
+        "album": "Ratan",
+        "url": "src/songs/hindi/Tere Vaaste.mp3",
+        "poster": "src/songs/hindi/images/tere-vaaste-zara-hatke-zara-bachke-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Raabta Jubin Nautiyal",
+        "album": "Ratan",
+        "url": "src/songs/hindi/Raabta Jubin Nautiyal 128 Kbps.mp3",
+        "poster": "src/songs/hindi/images/tere-vaaste-zara-hatke-zara-bachke-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Jawan Prevue Theme",
+        "album": "Jawan",
+        "url": "src/songs/hindi/01 - Jawan Prevue Theme (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Zinda Banda",
+        "album": "Jawan",
+        "url": "src/songs/hindi/02 - Zinda Banda (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Chaleya Jawan",
+        "album": "Jawan",
+        "url": "src/songs/hindi/03 - Chaleya Jawan 128 Kbps.mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Not Ramaiya Vastavaiya",
+        "album": "Jawan",
+        "url": "src/songs/hindi/04 - Not Ramaiya Vastavaiya (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Faraatta",
+        "album": "Jawan",
+        "url": "src/songs/hindi/05 - Faraatta (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": true
+    },
+    {
+        "title": "Aararaari Raaro",
+        "album": "Jawan",
+        "url": "src/songs/hindi/06 - Aararaari Raaro (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Chaleya Arabic",
+        "album": "Jawan",
+        "url": "src/songs/hindi/07 - Chaleya Arabic (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "Not Ramaiya Vastavaiya Extended Version",
+        "album": "Jawan",
+        "url": "src/songs/hindi/08 - Not Ramaiya Vastavaiya Extended Version (Hindi) (128 Kbps).mp3",
+        "poster": "src/songs/hindi/images/jawan-2023-500-500.jpg",
+        "language": "hindi",
+        "artist": "",
+        "year": "",
+        "favourite": false
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    },
+    {
+        "title": "",
+        "album": "",
+        "url": "",
+        "poster": "",
+        "language": "",
+        "artist": "",
+        "year": ""
+    }
+]
